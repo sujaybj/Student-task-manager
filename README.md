@@ -27,12 +27,3 @@ This project demonstrates core Python programming concepts along with real-world
 - **Version Control:** Git & GitHub
 
 ---
-
-# 📂 Project Structure
-
-student_task_manager/
-│
-├── task_manager.py # Main application file
-├── tasks.json # Auto-generated task storage
-├── .gitignore # Ignored runtime files
-└── README.md # Project documentation
